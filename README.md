@@ -13,3 +13,6 @@ python coordinate.py
 
 On Windows:
 Download python 2.7.x from the python repositories, and doubleclick the file.
+
+Online:
+Open file and copy code to any online python intepreter. Examples can be http://repl.it/
